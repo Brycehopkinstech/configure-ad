@@ -16,7 +16,3 @@ Implementation of on-premises Active Directory within Azure Virtual Machines.<br
 
 - Windows Server 2022
 - Windows 10 
-
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
